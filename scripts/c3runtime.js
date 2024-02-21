@@ -9934,7 +9934,6 @@ self.C3_GetObjectRefTable = function () {
 		C3.Plugins.Photon,
 		C3.Plugins.System.Cnds.OnLayoutStart,
 		C3.Plugins.Browser.Acts.LockOrientation,
-		C3.Plugins.Browser.Acts.RequestFullScreen,
 		C3.Plugins.Photon.Acts.connect,
 		C3.Plugins.System.Cnds.ForEach,
 		C3.Plugins.Sprite.Cnds.CompareWidth,
